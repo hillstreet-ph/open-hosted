@@ -12,7 +12,7 @@ enableGlobalVirtualStore: false
 
 catalog:
   '@monaco-editor/react': 4.8.0-rc.3
-  '@sentry/nextjs': ^10.59.0
+  '@sentry/nextjs': ^10.75.2
   '@sentry/tanstackstart-react': ^10.59.0
   '@supabase/auth-js': 2.112.4
   '@supabase/postgrest-js': 2.112.4
@@ -33,7 +33,7 @@ catalog:
   '@typescript/native': npm:typescript@~7.0.2
   '@vitejs/plugin-react': ^6.0.1
   '@vitest/coverage-v8': ^5.0.0
-  '@vitest/ui': ^5.0.0
+  '@vitest/ui': ^5.0.5
   lodash: ^4.18.1
   lodash-es: ^4.18.1
   monaco-editor: 0.52.2
@@ -48,7 +48,7 @@ catalog:
   tsx: ^4.22.0
   typescript: ~6.0.2
   valtio: ^2.3.2
-  vite: ^8.0.16
+  vite: ^7.3.7
   velite: ^0.4.0
   vitest: ^5.0.0
   zod: 3.25.76
